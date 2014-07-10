@@ -1,0 +1,8 @@
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\bin\Debug\PM_Winform.exe
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\bin\Debug\PM_Winform.pdb
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\obj\x86\Debug\PM_Winform.Properties.Resources.resources
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\obj\x86\Debug\PM_Winform.csproj.GenerateResource.Cache
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\obj\x86\Debug\PM_Winform.exe
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\obj\x86\Debug\PM_Winform.pdb
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\obj\x86\Debug\PM_Winform.Form1.resources
+C:\System\自己资料\net架构\C#\Study\PM_Winform\PM_Winform\obj\x86\Debug\PM_Winform.csprojResolveAssemblyReference.cache
